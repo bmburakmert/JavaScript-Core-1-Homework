@@ -6,7 +6,7 @@ function addNumbers(a b c) {
 
 function introduceMe(name, age)
 return "Hello, my name is " + name "and I am " age + "years old";
-
+ZXXXZXZx
 function getTotal(a, b) {
     total = a ++ b;
 
